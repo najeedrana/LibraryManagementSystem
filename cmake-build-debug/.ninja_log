@@ -1,0 +1,6 @@
+# ninja log v6
+3	235	7587503927252739	build.ninja	6b6b0ed5d7adf951
+12	3324	7587502636847353	CMakeFiles/LibraryManagementSystem.dir/main.cpp.obj	ca784dd5513c13ea
+3324	5090	7587502669969323	LibraryManagementSystem.exe	cb1d3c0c165cc24f
+11	3302	7587504046900792	CMakeFiles/LibraryManagementSystem.dir/main.cpp.obj	ca784dd5513c13ea
+3303	5067	7587504079821222	LibraryManagementSystem.exe	cb1d3c0c165cc24f

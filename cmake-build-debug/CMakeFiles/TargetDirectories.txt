@@ -1,0 +1,3 @@
+C:/Users/robma/CLionProjects/LibraryManagementSystem/cmake-build-debug/CMakeFiles/LibraryManagementSystem.dir
+C:/Users/robma/CLionProjects/LibraryManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/robma/CLionProjects/LibraryManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
